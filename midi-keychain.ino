@@ -1,7 +1,7 @@
 /*
    MIDI-KEYCHAIN.ino V0.1b
    @author jambonbill
-   @author aiadi
+   @author ailadi
 */
 
 #include "MIDIUSB.h"
